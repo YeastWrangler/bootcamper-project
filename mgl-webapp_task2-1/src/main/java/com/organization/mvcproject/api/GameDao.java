@@ -1,4 +1,4 @@
-package com.organization.mvcproject.api.dao;
+package com.organization.mvcproject.api;
 
 import java.util.List;
 

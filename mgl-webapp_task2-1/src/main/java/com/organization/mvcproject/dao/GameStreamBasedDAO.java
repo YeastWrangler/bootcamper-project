@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import org.springframework.stereotype.Repository;
 
 import com.google.common.collect.ImmutableList;
-import com.organization.mvcproject.api.dao.GameDao;
+import com.organization.mvcproject.api.GameDao;
 import com.organization.mvcproject.api.model.Game;
 import com.organization.mvcproject.model.GameImpl;
 

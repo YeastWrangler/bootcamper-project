@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
-import com.organization.mvcproject.api.dao.GameDao;
+import com.organization.mvcproject.api.GameDao;
 import com.organization.mvcproject.api.model.Game;
 import com.organization.mvcproject.api.service.GameService;
 
